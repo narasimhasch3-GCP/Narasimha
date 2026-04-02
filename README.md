@@ -11,7 +11,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=narasimhachintada&color=0f4c81&style=flat-square&label=Profile+Views)](https://github.com/narasimhachintada)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/narasimhachintada)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/narasimha-s-chintada/)
 [![Email](https://img.shields.io/badge/Email-narasimhachintada.gcp%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:narasimhachintada.gcp@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Hyderabad%2C%20India-0f4c81?style=flat-square)](https://maps.google.com/?q=Hyderabad,India)
 
